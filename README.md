@@ -12,3 +12,5 @@ In this capstone project, a Data Scientist newly hired by an AI-powered weather 
 
 # Data Collection
 ![data collection drawio](https://github.com/user-attachments/assets/a1a73078-8c40-44cf-89ba-93913254d365)
+
+![image](https://github.com/user-attachments/assets/819249d8-981e-49e3-abfd-ba8310047073)
