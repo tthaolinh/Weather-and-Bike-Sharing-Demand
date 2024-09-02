@@ -28,7 +28,7 @@ In this capstone project, a Data Scientist newly hired by an AI-powered weather 
 - **Potential Weekday vs. Weekend Influence**:
   - **Consistent Patterns**: Suggests possible higher rentals during weekdays, particularly in commuting hours.
 
-**Key Findings**:
+## **Key Findings**:
 - **Seasonal Variation**: Rentals peak in warmer months, suggesting weather significantly impacts usage.
 - **Hourly Influence**: Rentals are concentrated during daylight and commuting hours.
 - **Usage Insights**: Data can guide operational decisions based on time of year and day.
