@@ -32,3 +32,15 @@ In this capstone project, a Data Scientist newly hired by an AI-powered weather 
 - **Seasonal Variation**: Rentals peak in warmer months, suggesting weather significantly impacts usage.
 - **Hourly Influence**: Rentals are concentrated during daylight and commuting hours.
 - **Usage Insights**: Data can guide operational decisions based on time of year and day.
+
+![image](https://github.com/user-attachments/assets/961e6e71-a8d1-4d3d-b58f-75fa155de76b)
+## Key Observations:
+- **Right-Skewed Distribution**: Most bike rentals are low, with fewer instances of high rentals
+- **Peak at Low Rentals**: The highest frequency of rentals occurs at lower counts (under 500).
+- **Gradual Decrease**: Rental frequency decreases as the count increases, indicating that high rentals are uncommon.
+- **Long Tail**: Occasional high demand or events leading to a surge in bike rentals
+- **Small Secondary Peaks**: These may indicate specific factors or events causing higher rentals
+
+## Implications:
+- **Optimize Resources**: Focus on managing common low rentals, with readiness for occasional spikes.
+- **Further Analysis**: Investigate conditions leading to smaller peaks and high rentals.
