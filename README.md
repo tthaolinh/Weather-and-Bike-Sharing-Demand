@@ -14,3 +14,21 @@ In this capstone project, a Data Scientist newly hired by an AI-powered weather 
 ![data collection drawio](https://github.com/user-attachments/assets/a1a73078-8c40-44cf-89ba-93913254d365)
 
 ![image](https://github.com/user-attachments/assets/819249d8-981e-49e3-abfd-ba8310047073)
+
+## Key Observations
+- **Seasonal Patterns**: 
+  - **Peak Rentals**: Significant increase in rentals from April to July, peaking in mid-summer
+  - **Low Rentals**: fewer rentals during winter months(Janurary-February)
+- **Hourly Trends**
+  - **High Activity**: Most rentals occur late morning to early evening ( 8AM to 8PM), likely during commuting and leisure times
+  - **Low activity**: Fewer rentals during early morning (before 8 AM) and late eveing (after 8 PM).
+- **Desity of Points**:
+  - **Summer Concetration**: Densely packed points in summer months, indicating high rental activity (June-Aug)
+  - **Winter dispersion**: More scattered points in winter, reflecting lower and irregular rental patterns.
+- **Potential Weekday vs. Weekend Influence**:
+  - **Consistent Patterns**: Suggests possible higher rentals during weekdays, particularly in commuting hours.
+
+**Key Findings**:
+- **Seasonal Variation**: Rentals peak in warmer months, suggesting weather significantly impacts usage.
+- **Hourly Influence**: Rentals are concentrated during daylight and commuting hours.
+- **Usage Insights**: Data can guide operational decisions based on time of year and day.
