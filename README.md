@@ -16,9 +16,9 @@ In this capstone project, a Data Scientist newly hired by an AI-powered weather 
 - Scraped Wikipedia pages for bike-sharing systems data, stored in CSV format.
 - Downloaded historical bike demand data from cloud storage, saved as CSV.
 
+# Data Wrangling
 
-
-# Data Visualization
+# Exploratory Data Ana
 ![image](https://github.com/user-attachments/assets/819249d8-981e-49e3-abfd-ba8310047073)
 
 ## Key Observations
@@ -72,3 +72,6 @@ In this capstone project, a Data Scientist newly hired by an AI-powered weather 
 - **Marketing Strategies**: Promotional efforts to encourage bike rentals could be targeted more heavily in spring and autumn, where there is a clear increase in rentals as temperatures rise.
 - **Winter Considerations**: The low rentals in winter indicate that other factors (e.g., promotions, alternative incentives) may be needed to boost usage during this season, or resources could be optimized elsewhere.
 
+# Predictive Analysis
+
+# R Shinny Dashboard
