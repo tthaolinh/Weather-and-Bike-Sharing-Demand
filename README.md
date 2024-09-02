@@ -12,6 +12,9 @@ In this capstone project, a Data Scientist newly hired by an AI-powered weather 
 
 # Data Collection
 ![data collection drawio](https://github.com/user-attachments/assets/a1a73078-8c40-44cf-89ba-93913254d365)
+- Collected weather data from OpenWeather API via HTTP requests, saved as CSV.
+- Scraped Wikipedia pages for bike-sharing systems data, stored in CSV format.
+- Downloaded historical bike demand data from cloud storage, saved as CSV.
 
 
 
