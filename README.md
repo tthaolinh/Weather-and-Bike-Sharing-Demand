@@ -46,5 +46,28 @@ In this capstone project, a Data Scientist newly hired by an AI-powered weather 
 - **Further Analysis**: Investigate conditions leading to smaller peaks and high rentals.
 
 ![image](https://github.com/user-attachments/assets/6018e7cc-3d4e-4886-b547-497f8a65778c)
+**Key Observations**:
+- **Winter**:
+  - **Low Rentals**: Bike rentals are generally low, even at higher winter temperatures.
+Minimal Variation: There is little variation in rentals as temperatures fluctuate, indicating that cold weather significantly suppresses bike usage.
+Spring:
 
+Positive Correlation: Rentals increase as temperatures rise, indicating that warmer spring temperatures encourage more bike usage.
+Wider Spread: A broader range of rentals is observed, especially at temperatures above 10°C.
+Summer:
+
+Strong Positive Correlation: There is a strong increase in bike rentals as temperatures rise, with a clear peak in the range of 20°C to 30°C.
+High Activity: This season shows the highest rental counts, reflecting the favorable conditions for biking.
+Autumn:
+
+Moderate Positive Correlation: Similar to spring, there is a positive correlation between temperature and rentals, though the overall rental counts are slightly lower than in summer.
+Milder Temperatures: The rentals remain relatively high even as temperatures drop towards the end of the season.
+Implications:
+Seasonal Influence: Seasonality plays a significant role in bike rental behavior, with winter showing suppressed rentals regardless of temperature, while spring, summer, and autumn show a clear positive correlation between temperature and bike usage.
+
+Operational Planning: The data suggests that bike-sharing operations should focus on increasing availability and maintenance efforts during the warmer months, particularly in summer, where demand peaks.
+
+Marketing Strategies: Promotional efforts to encourage bike rentals could be targeted more heavily in spring and autumn, where there is a clear increase in rentals as temperatures rise.
+
+Winter Considerations: The low rentals in winter indicate that other factors (e.g., promotions, alternative incentives) may be needed to boost usage during this season, or resources could be optimized elsewhere.
 
